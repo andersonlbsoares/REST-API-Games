@@ -7,11 +7,11 @@ Aplicação backend construído com o framework Express em Node.js. A aplicaçã
 
 A API tem as seguintes funcionalidades:
 
--Obter uma lista de todos os jogos
--Obter um jogo específico pelo ID
--Adicionar um novo jogo ao banco de dados
--Deletar um jogo existente pelo ID
--Atualizar as informações de um jogo existente pelo ID
+*Obter uma lista de todos os jogos
+*Obter um jogo específico pelo ID
+*Adicionar um novo jogo ao banco de dados
+*Deletar um jogo existente pelo ID
+*Atualizar as informações de um jogo existente pelo ID
 
 A aplicação é executada na porta 3000 e escuta as requisições HTTP. A aplicação pode ser testada enviando solicitações HTTP com ajuda de ferramentas como o Postman ou o curl.
 
